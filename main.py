@@ -1,5 +1,4 @@
 #6589678614:AAEKwUHM-Z52EdphhU5Pq9OA6f7z5agQA4Y
-import telebot
 from datetime import datetime
 from pyrogram import*
 from api import*
