@@ -6,7 +6,6 @@ import time
 my_chat_id = 1524610051
 now = datetime.now()
 current_time = now.strftime("%H:%M")
-bot = telebot.TeleBot('6589678614:AAEKwUHM-Z52EdphhU5Pq9OA6f7z5agQA4Y')
 
 api_id = 20570867
 api_hash = '0e123778ea491f4425b56216ae022434'
