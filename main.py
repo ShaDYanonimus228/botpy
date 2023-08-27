@@ -20,6 +20,6 @@ with Client("my_account", api_id, api_hash) as app:
             app.send_message('@banan123455', "Разбуди меня,пожалуйста")
             app.send_message('@banan123455', "Разбуди меня,пожалуйста")
             app.send_message('@banan123455', "Разбуди меня,пожалуйста")
-
+            time.sleep(10000)
 
 
