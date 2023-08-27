@@ -15,7 +15,7 @@ with Client("my_account", api_id, api_hash) as app:
 
         time.sleep(1)
         print(current_time)
-        if current_time == '10:00':  # Выставляете ваше время
+        if current_time == '13:00':  # Выставляете ваше время
             print('pass')
             app.send_message('@banan123455', "Разбуди меня,пожалуйста")
             app.send_message('@banan123455', "Разбуди меня,пожалуйста")
