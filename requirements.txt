@@ -1,5 +1,5 @@
 pyrogram
 api
 telebot
-openai
+openai migrate
 
