@@ -1,4 +1,4 @@
 pyrogram
 api
 telebot
-openai
+openai 0.28
